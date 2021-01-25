@@ -7,17 +7,19 @@
 
 <!-------------------------------------------------------------------------->
 
-### Connect With Me 👉🏼
+### Connect With Me
 
-&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./assets/gmail.svg" width="30px"/>][mail]&nbsp;&nbsp;&nbsp; [<img src="./assets/linkedin.svg" width="30px"/>][linkedin]
+[<img src="./assets/gmail.svg" width="30px"/>][mail]&nbsp;&nbsp;&nbsp;
+[<img src="./assets/linkedin.svg" width="30px"/>][linkedin]
 
 <br>
 <hr width="80%">
 <br>
 <!-------------------------------------------------------------------------->
 
-<span style="font-size:1.5rem"><b>Tools & Technologies I use<b></span>
-<br><br>
+## Tools & Technologies I use
+
+<br>
 
 [<img src="./assets/html5.svg" width="40px"/>][html5]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/css3.svg" width="40px"/>][css3]&nbsp;&nbsp;&nbsp;
@@ -42,8 +44,9 @@
 
 <!-------------------------------------------------------------------------->
 
-<span style="font-size:1.5rem"><b>I’m currently learning 👉🏼<b></span>
-<br><br>
+## I’m currently learning
+
+<br>
 
 [<img src="./assets/next-dot-js.svg" width="40px"/>][next.js]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/react.svg" width="40px"/>][react]&nbsp;&nbsp;&nbsp;
@@ -55,27 +58,26 @@
 <br>
 
 <!-------------------------------------------------------------------------->
-<details>
-<summary>
-<span style="font-size:1.5rem"><b>I’m currently working on 👉🏼<b></span></summary>
+
+## I’m currently working on
+
 <br>
 
 <br>
 <hr width="80%">
 <br>
-</details>
-
 <!-------------------------------------------------------------------------->
-<details>
-<summary>
-<span style="font-size:1.5rem"><b>I’m looking to collaborate on 👉🏼<b></span></summary>
+
+## I’m interested in
+
 <br>
 
 <br>
 <hr width="80%">
 <br>
-</details>
 <!-------------------------------------------------------------------------->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rg12301.rg12301)
 
 </div>
 
