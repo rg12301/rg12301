@@ -1,25 +1,25 @@
 <div align="center">
 <img src="./assets/rg-logo3.svg" width="50px"/>
-<h1>👋 Hi there, <b>Raghav</b> this side.</h1>
-<h2>CSE Student - Web Development Enthusiast</h2>
-<h3>Designer🖌 Musicophille🎷 Foodie🍕 Peripatetic🚲</h3>
+<p style="font-size:2rem">👋 Hi there, <b>Raghav</b> this side.</p1>
+<p style="font-size:1.5rem">CSE Student - Web Development Enthusiast</p>
+<span style="font-size:1.3rem">Designer🖌 Musicophille🎷 Foodie🍕 Peripatetic🚲</span>
+<br>
+<br>
+<br>
 <br>
 
 <!-------------------------------------------------------------------------->
 
-### Connect With Me
+<p style="font-size:1.5rem"><b>Connect With Me</b></p>
 
 [<img src="./assets/gmail.svg" width="30px"/>][mail]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/linkedin.svg" width="30px"/>][linkedin]
 
 <br>
-<hr width="80%">
 <br>
 <!-------------------------------------------------------------------------->
 
-## Tools & Technologies I use
-
-<br>
+<p style="font-size:1.5rem"><b>Tools & Technologies I use</b></p>
 
 [<img src="./assets/html5.svg" width="40px"/>][html5]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/css3.svg" width="40px"/>][css3]&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 [<img src="./assets/git.svg" width="40px"/>][git]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/github.svg" width="40px"/>][github]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/java.svg" width="40px"/>][java]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/python.svg" width="40px"/>][python]&nbsp;&nbsp;&nbsp;<br><br>
+[<img src="./assets/python.svg" width="40px"/>][python]&nbsp;&nbsp;&nbsp;<br>
 [<img src="./assets/r.svg" width="40px"/>][r]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/visualstudiocode.svg" width="40px"/>][vscode]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/pop_os.svg" width="50px"/>][popos]&nbsp;&nbsp;&nbsp;
@@ -39,14 +39,11 @@
 [<img src="./assets/wordpress.svg" width="40px"/>][wp]&nbsp;&nbsp;&nbsp;
 
 <br>
-<hr width="80%">
 <br>
 
 <!-------------------------------------------------------------------------->
 
-## I’m currently learning
-
-<br>
+<p style="font-size:1.5rem"><b>I’m currently learning</b></p>
 
 [<img src="./assets/next-dot-js.svg" width="40px"/>][next.js]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/react.svg" width="40px"/>][react]&nbsp;&nbsp;&nbsp;
@@ -54,26 +51,19 @@
 [<img src="./assets/inkscape.svg" width="40px"/>][inkscape]&nbsp;&nbsp;&nbsp;
 
 <br>
-<hr width="80%">
 <br>
 
 <!-------------------------------------------------------------------------->
 
-## I’m currently working on
+<p style="font-size:1.5rem"><b>I’m currently working on</b></p>
 
 <br>
-
-<br>
-<hr width="80%">
 <br>
 <!-------------------------------------------------------------------------->
 
-## I’m interested in
+<p style="font-size:1.5rem"><b>I’m interested in</b></p>
 
 <br>
-
-<br>
-<hr width="80%">
 <br>
 <!-------------------------------------------------------------------------->
 
