@@ -1,8 +1,9 @@
 <div align="center">
 <img src="./assets/rg-logo3.svg" width="50px"/>
-<p style="font-size:2rem">👋 Hi there, <b>Raghav</b> this side.</p1>
-<p style="font-size:1.5rem">CSE Student - Web Development Enthusiast</p>
-<span style="font-size:1.3rem">Designer🖌 Musicophille🎷 Foodie🍕 Peripatetic🚲</span>
+
+### 👋 Hi there, <b>Raghav</b> this side.
+### CSE Student - Web Development Enthusiast
+#### Designer🖌 Musicophille🎷 Foodie🍕 Peripatetic🚲
 <br>
 <br>
 <br>
@@ -10,7 +11,7 @@
 
 <!-------------------------------------------------------------------------->
 
-<p style="font-size:1.5rem"><b>Connect With Me</b></p>
+### Connect With Me
 
 [<img src="./assets/gmail.svg" width="30px"/>][mail]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/linkedin.svg" width="30px"/>][linkedin]
@@ -19,7 +20,7 @@
 <br>
 <!-------------------------------------------------------------------------->
 
-<p style="font-size:1.5rem"><b>Tools & Technologies I use</b></p>
+### Tools & Technologies I use
 
 [<img src="./assets/html5.svg" width="40px"/>][html5]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/css3.svg" width="40px"/>][css3]&nbsp;&nbsp;&nbsp;
@@ -43,7 +44,7 @@
 
 <!-------------------------------------------------------------------------->
 
-<p style="font-size:1.5rem"><b>I’m currently learning</b></p>
+### I’m currently learning
 
 [<img src="./assets/next-dot-js.svg" width="40px"/>][next.js]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/react.svg" width="40px"/>][react]&nbsp;&nbsp;&nbsp;
@@ -55,13 +56,13 @@
 
 <!-------------------------------------------------------------------------->
 
-<p style="font-size:1.5rem"><b>I’m currently working on</b></p>
+### I’m currently working on
 
 <br>
 <br>
 <!-------------------------------------------------------------------------->
 
-<p style="font-size:1.5rem"><b>I’m interested in</b></p>
+### I’m interested in
 
 <br>
 <br>
