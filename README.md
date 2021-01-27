@@ -1,7 +1,6 @@
 <div align="center">
-<img src="./assets/rg-logo3.svg" width="50px"/>
+<img src="./assets/rG.svg" width="300px"/>
 
-### 👋 Hi there, **Raghav** this side.
 ### CSE Student - Web Development Enthusiast
 #### Designer🖌 Musicophille🎷 Foodie🍕 Peripatetic🚲
 <br>
