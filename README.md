@@ -1,14 +1,13 @@
+<br>
+<br>
 <div align="center">
-<img src="./assets/rG.svg" width="300px"/>
+
+[<img src="./assets/rG.svg" width="300px"/>][rg]
 
 ### CSE Student - Web Development Enthusiast
-#### Designer🖌 Musicophille🎷 Foodie🍕 Peripatetic🚲
-<br>
-<br>
-
 <!-------------------------------------------------------------------------->
 
-### Connect With Me
+#### Connect With Me
 
 [<img src="./assets/gmail.svg" width="30px"/>][mail]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/linkedin.svg" width="30px"/>][linkedin]
@@ -90,6 +89,7 @@
 [mysql]: https://www.mysql.com/
 [mongodb]: https://www.mongodb.com/2
 [wp]: https://wordpress.org/
+[rg]: https://github.com/rg12301
 
 <!--
 **rg12301/rg12301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
