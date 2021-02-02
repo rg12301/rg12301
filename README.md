@@ -4,7 +4,7 @@
 
 [<img src="./assets/rG.svg" width="300px"/>][rg]
 
-### CSE Student - Web Development Enthusiast
+### CSE Student - Web Development Enthusiast - Data Science Practitioner
 <!-------------------------------------------------------------------------->
 
 #### Connect With Me
@@ -15,28 +15,6 @@
 <br>
 <!-------------------------------------------------------------------------->
 
-### Tools & Technologies I use
-
-[<img src="./assets/html5.svg" width="40px"/>][html5]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/css3.svg" width="40px"/>][css3]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/bootstrap.svg" width="40px"/>][bootstrap]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/javascript.svg" width="40px"/>][javascript]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/node-dot-js.svg" width="40px"/>][node.js]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/git.svg" width="40px"/>][git]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/github.svg" width="40px"/>][github]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/java.svg" width="40px"/>][java]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/python.svg" width="40px"/>][python]&nbsp;&nbsp;&nbsp;<br>
-[<img src="./assets/r.svg" width="40px"/>][r]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/visualstudiocode.svg" width="40px"/>][vscode]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/pop_os.svg" width="50px"/>][popos]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/adobeillustrator.svg" width="40px"/>][ai]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/mysql.svg" width="40px"/>][mysql]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/mongodb.svg" width="40px"/>][mongodb]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/wordpress.svg" width="40px"/>][wp]&nbsp;&nbsp;&nbsp;
-
-<br>
-
-<!-------------------------------------------------------------------------->
 
 ### I’m currently learning
 
@@ -50,20 +28,18 @@
 <!-------------------------------------------------------------------------->
 
 ### I’m currently working on
+##### My Portfolio
+##### A Recipe Book App
+##### A Traveling Diary App
 
 <br>
 <!-------------------------------------------------------------------------->
 
 ### I’m interested in
-
+##### Hackathons / Ideathons
 <br>
 <br>
 <br>
-<!-------------------------------------------------------------------------->
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rg12301.rg12301)
-
-</div>
 
 <!------------------------------Links--------------------------------------->
 
