@@ -44,7 +44,7 @@
 <!------------------------------Links--------------------------------------->
 
 [mail]: mailto:12301raghavgoyal@gmail.com
-[linkedin]: www.linkedin.com/in/12301raghavgoyal
+[linkedin]: https://www.linkedin.com/in/12301raghavgoyal/
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [css3]: https://www.w3schools.com/css/
 [bootstrap]: https://getbootstrap.com/
