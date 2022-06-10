@@ -4,10 +4,10 @@
 
 <!---------------------------------- HERO ----------------------------------->
 
-<div align="center" style="display:flex;justify-content:space-evenly;width:100%;">
+<div align="center" style="display:flex;flex-direction:row;justify-content:space-evenly;width:100%;">
 
 <!-- Logo -->
-[<img align="center" src="./assets/rg-new.svg" alt="rg logo" style="margin:auto;" width="275"/>][rg]
+[<img align="center" src="./assets/rg-new.svg" alt="rg logo" style="margin:auto;" width="250"/>][rg]
 <!--  -->
 
 <div align="center" style="margin-top: auto; margin-bottom: auto; margin-left:10%">
@@ -30,7 +30,7 @@
 
 <!------------------------------ More about me ------------------------------->
 
-<details open>
+<details>
 <summary>More about me</summary>
 <br>
 
