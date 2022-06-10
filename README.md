@@ -42,17 +42,17 @@ Web3 and blockchain is something which I can never get bored of and alway exited
 
 <br>
 
-### **Projects I made and maintain with ::purple-heart::**
+### **Projects I made and maintain with 💜 & ✨**
 
-- [OpenShelf | OpenDesk](...)
-- [Dapp Tools](...)
+- [OpenShelf | OpenDesk](https://github.com/OpenShelf-OpenDesk)
+- [Dapp Tools](https://github.com/Erroders/dapp-tools)
 
 
 <br>
 
 ### **Tech stack & Tools I use**
 
-<div style="background:white;border-radius:5px;display:flex;flex-wrap:wrap;justify-content:center; align-items:space-evenly;padding-top:18px">
+<div style="background:white;border-radius:5px;display:flex;flex-wrap:wrap;justify-content:center; align-items:space-evenly;padding-top:18px" align="center"><br>
 
 [<img src="./assets/javascript.svg" width="40px"/>][javascript]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/python.svg" width="40px"/>][python]&nbsp;&nbsp;&nbsp;
