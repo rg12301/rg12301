@@ -12,7 +12,7 @@
 
 <div align="center" style="margin-top: auto; margin-bottom: auto; margin-left:10%">
 
-<p style="font-size:18px"><b>Hey! welcome to my my profile.<br>I am a CSE Student & passionate Web3 developer</br></p>
+<p style="font-size:18px"><b>Hey! welcome to my profile.<br>I am a CSE Student & passionate Web3 developer</br></p>
 
 [<img src="./assets/gmail.svg" width="30px" />][mail]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/twitter.svg" width="40px"/>][twitter]&nbsp;&nbsp;&nbsp;
