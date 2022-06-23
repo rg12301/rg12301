@@ -65,7 +65,6 @@ Web3 and blockchain are something that I can never get bored of and am always ex
 [<img src="./assets/github.svg" width="40px"/>][github]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/visualstudiocode.svg" width="40px"/>][vscode]&nbsp;&nbsp;&nbsp;
 [<img src="./assets/pop_os.svg" width="40px"/>][popos]&nbsp;&nbsp;&nbsp;
-[<img src="./assets/github.svg" width="40px"/>][github]&nbsp;&nbsp;&nbsp;
 
 <br>
 
