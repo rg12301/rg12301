@@ -36,9 +36,9 @@
 
 ### **What do I do and What I have done?**
 
-I am pursuing my Bachelor of Technology focused in Computer Science and Engineering from *JK Lakshmipat University, Jaipur*. I am an intermediate developer skilled in Fullstack Development using Javascript and its frameworks(primarily React.js). My activities are much beyond my stream of education. I love playing outdoors, cycling and running(also swimming occasionally). I love connecting with people from varied fields, learn &collaborate & contributing in their work.
+I am pursuing my Bachelor of Technology focused in Computer Science and Engineering from JK Lakshmipat University, Jaipur. I am an intermediate developer skilled in Fullstack Development using Javascript and its frameworks(primarily React.js). My activities are much beyond my stream of education. I love playing outdoors, cycling, and running(also swimming occasionally). I love connecting with people from varied fields, learning & collaborating & contributing to their work.
 
-Web3 and blockchain is something which I can never get bored of and alway exited to talk about. Yes I am thrilled about it not just because its very interesting but because it belongs to my era. It is something I'll be story telling to my children. I have created two NFT projects(link below), participated in many global hackathons and cracked bounties.
+Web3 and blockchain are something that I can never get bored of and am always excited to talk about. Yes, I am thrilled about it not just because it's fascinating but also because it belongs to my era. It is something I'll be storytelling to my children. I have created two NFT projects and participated in many global hackathons to learn more and crack bounties.
 
 <br>
 
